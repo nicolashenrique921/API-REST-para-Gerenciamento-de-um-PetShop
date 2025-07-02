@@ -1,6 +1,6 @@
-Desenvolvido uma API RESTful para Gerenciamento de um PetShop.
+Desenvolvido uma API REST para Gerenciamento de um PetShop.
 
-Desenvolver uma API RESTful completa para gerenciar informações sobre os produtos e serviços de um petshop, utilizando Spring Boot, Spring Data JPA e um banco de dados H2 em memória.
+Desenvolver uma API REST completa para gerenciar informações sobre os produtos e serviços de um petshop, utilizando Spring Boot, Spring Data JPA e um banco de dados H2 em memória.
 
 Modelo de Dados (Entidades e Relacionamentos):
 
